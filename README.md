@@ -1,5 +1,5 @@
 # ReactNativeTheMovieDb
-a project to call the movie database and do some functionalities on it using react Native
+a project to call the movie database and display the details of the movie, the rating of the movie and the ability to watch the movie trailer
 
 
 ### To run this project
